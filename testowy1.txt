@@ -1,0 +1,3 @@
+nowopowstały plik tekstowy
+testowy tekstowy
+nazywa się testowy1.txt
