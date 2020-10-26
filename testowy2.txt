@@ -1,0 +1,2 @@
+stworzony tylko po to, żeby zrobić nową branch na Githubie,
+bo inaczej się nie da
